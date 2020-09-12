@@ -11,7 +11,7 @@ namespace POO2
             TimeSpan s1 = t2.Subtract(t1);
             Console.WriteLine(s1);
 
-
+            Console.WriteLine("Teste!");
         }
     }
 }
